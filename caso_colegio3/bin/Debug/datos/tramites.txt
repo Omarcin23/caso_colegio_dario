@@ -1,0 +1,2 @@
+1|Omar|71681954|justificacion|prof2|Atendido|22/11/2026 19:08|Omar Laguna|22/11/2026 19:16|923831237|Hermano(a)|se  enfermo porque no sabia nadar
+2|juan|71681954|justificacion|coordinador|Atendido|22/11/2026 22:37|emilio|22/11/2026 22:40|923831237|Padre|se enfermo por dengue

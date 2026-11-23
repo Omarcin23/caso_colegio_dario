@@ -1,0 +1,9 @@
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\bin\Debug\caso_colegio3.exe.config
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\bin\Debug\caso_colegio3.exe
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\bin\Debug\caso_colegio3.pdb
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\obj\Debug\caso_colegio3.csproj.AssemblyReference.cache
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\obj\Debug\caso_colegio3.Properties.Resources.resources
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\obj\Debug\caso_colegio3.csproj.GenerateResource.cache
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\obj\Debug\caso_colegio3.csproj.CoreCompileInputs.cache
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\obj\Debug\caso_colegio3.exe
+C:\Users\oomic\source\repos\caso_colegio3\caso_colegio3\obj\Debug\caso_colegio3.pdb
